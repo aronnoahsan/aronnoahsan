@@ -40,3 +40,5 @@ Throughout my career, I have worked on various projects that have allowed me to 
 ## Summary
 
 My technical skills, coupled with my practical experience, make me a versatile professional in the realm of web development, WordPress customization, and digital marketing. I thrive on challenges and continually seek opportunities to expand my skill set. Connect with me on [LinkedIn](https://www.linkedin.com/in/aronnoahsan/) to explore potential collaborations or discuss exciting projects. Thank you for visiting my profile, and I look forward to connecting with you!
+
+--- By the way, this whole thing is generated using chatGPT. I'm too lazy to write this .md files. See you again.
